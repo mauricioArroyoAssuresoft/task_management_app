@@ -6,5 +6,15 @@
     <%= form.text_field(:title) %>
   </div>
 
+  <div>
+    <%= form.label(:description) %>
+    <%= form.text_area(:description) %>
+  </div>
+
+  <div>
+    <%= form.label(:due_date) %>
+    <%= form.date_field(:due_date) %>
+  </div>
+
   <%= form.submit("Create Task") %>
 <% end %>
