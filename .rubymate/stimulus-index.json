@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "indexedAt": 1787158108617,
+  "controllers": {
+    "hello": {
+      "filePath": "/Users/mauricioarroyo/Desktop/all-files/local-files/02-other-repos/task_management_app/app/javascript/controllers/hello_controller.js",
+      "targets": [],
+      "values": [],
+      "outlets": [],
+      "actions": [],
+      "classes": [],
+      "mtime": 1787071762729.171
+    }
+  }
+}

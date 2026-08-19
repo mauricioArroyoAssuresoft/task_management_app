@@ -1,0 +1,5 @@
+User.create!(
+  name: "mauricio1",
+  email: "mauricio1@example.com",
+  password: "mauricio1"
+)
