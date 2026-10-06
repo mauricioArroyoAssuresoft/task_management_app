@@ -65,6 +65,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "pg", "~> 1.6"
+gem "pg", "~> 1.7"
 
 gem "bcrypt", "~> 3.1"
